@@ -1,4 +1,6 @@
 nginx
 #支持私库
 registry.k8s.io/nfd/node-feature-discovery:v0.18.3
+nvcr.io/nvidia/gpu-operator:main-latest
+
 
