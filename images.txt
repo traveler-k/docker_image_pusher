@@ -11,8 +11,9 @@
 #registry.k8s.io/nfd/node-feature-discovery:v0.18.3
 #nvcr.io/nvidia/k8s-device-plugin:v0.19.0
 #quay.io/kubernetes_incubator/node-feature-discovery:v0.6.0
-nvcr.io/nvidia/k8s-device-plugin:v0.16.2
-
+#nvcr.io/nvidia/k8s-device-plugin:v0.16.2
+nvcr.io/nvidia/gpu-feature-discovery:0.8.2
+registry.k8s.io/nfd/node-feature-discovery:0.13.2
 #支持私库
 
 
