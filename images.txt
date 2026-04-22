@@ -1,13 +1,14 @@
-nvcr.io/nvidia/cloud-native/k8s-driver-manager:v0.10.0
-nvcr.io/nvidia/k8s/container-toolkit:v1.19.0
-nvcr.io/nvidia/k8s-device-plugin:v0.19.0
-nvcr.io/nvidia/k8s/dcgm-exporter:4.5.1-4.8.0-distroless
-nvcr.io/nvidia/cloud-native/k8s-mig-manager:v0.14.0
-nvcr.io/nvidia/cloud-native/vgpu-device-manager:v0.4.2
-nvcr.io/nvidia/cloud-native/k8s-driver-manager:v0.10.0
-nvcr.io/nvidia/kubevirt-gpu-device-plugin:v1.5.0
-nvcr.io/nvidia/cloud-native/nvidia-sandbox-device-plugin:v0.0.3
-nvcr.io/nvidia/cloud-native/k8s-cc-manager:v0.4.0
+#nvcr.io/nvidia/cloud-native/k8s-driver-manager:v0.10.0
+#nvcr.io/nvidia/k8s/container-toolkit:v1.19.0
+#nvcr.io/nvidia/k8s-device-plugin:v0.19.0
+#nvcr.io/nvidia/k8s/dcgm-exporter:4.5.1-4.8.0-distroless
+#nvcr.io/nvidia/cloud-native/k8s-mig-manager:v0.14.0
+#nvcr.io/nvidia/cloud-native/vgpu-device-manager:v0.4.2
+#nvcr.io/nvidia/cloud-native/k8s-driver-manager:v0.10.0
+#nvcr.io/nvidia/kubevirt-gpu-device-plugin:v1.5.0
+#nvcr.io/nvidia/cloud-native/nvidia-sandbox-device-plugin:v0.0.3
+#nvcr.io/nvidia/cloud-native/k8s-cc-manager:v0.4.0
+registry.k8s.io/nfd/node-feature-discovery:v0.18.3
 
 #支持私库
 
