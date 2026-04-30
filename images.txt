@@ -13,5 +13,7 @@
 #nvcr.io/nvidia/k8s/container-toolkit:v1.14.6-ubuntu20.04
 #nvcr.io/nvidia/k8s/dcgm-exporter:3.3.0-3.2.0-ubuntu22.04
 #nvcr.io/nvidia/kubevirt-gpu-device-plugin:v1.2.4
+#ghcr.io/utkuozdemir/nvidia_gpu_exporter:1.4.1
 
-ghcr.io/utkuozdemir/nvidia_gpu_exporter:1.4.1
+
+gcr.io/kubeflow/tensorflow-notebook-gpu:latest
