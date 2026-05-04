@@ -14,6 +14,8 @@
 #nvcr.io/nvidia/k8s/dcgm-exporter:3.3.0-3.2.0-ubuntu22.04
 #nvcr.io/nvidia/kubevirt-gpu-device-plugin:v1.2.4
 #ghcr.io/utkuozdemir/nvidia_gpu_exporter:1.4.1
-
-
-gcr.io/kubeflow/tensorflow-notebook-gpu:latest
+#gcr.io/kubeflow/tensorflow-notebook-gpu:latest
+quay.io/k8scsi/csi-attacher:v2.2.0
+quay.io/k8scsi/csi-node-driver-registrar:v1.2.0
+quay.io/k8scsi/csi-provisioner:v2.1.0
+ctrox/csi-s3:v1.2.0-rc.2
