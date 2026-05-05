@@ -15,7 +15,6 @@
 #nvcr.io/nvidia/kubevirt-gpu-device-plugin:v1.2.4
 #ghcr.io/utkuozdemir/nvidia_gpu_exporter:1.4.1
 #gcr.io/kubeflow/tensorflow-notebook-gpu:latest
-quay.io/k8scsi/csi-attacher:v2.2.0
-quay.io/k8scsi/csi-node-driver-registrar:v1.2.0
-quay.io/k8scsi/csi-provisioner:v2.1.0
-ctrox/csi-s3:v1.2.0-rc.2
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.8
+registry.k8s.io/ingress-nginx/controller:v1.15.0
+registry.k8s.io/defaultbackend-amd64:1.5
