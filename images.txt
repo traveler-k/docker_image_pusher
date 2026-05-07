@@ -15,6 +15,7 @@
 #nvcr.io/nvidia/kubevirt-gpu-device-plugin:v1.2.4
 #ghcr.io/utkuozdemir/nvidia_gpu_exporter:1.4.1
 #gcr.io/kubeflow/tensorflow-notebook-gpu:latest
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.8
-registry.k8s.io/ingress-nginx/controller:v1.15.0
-registry.k8s.io/defaultbackend-amd64:1.5
+#registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.8
+#registry.k8s.io/ingress-nginx/controller:v1.15.0
+#registry.k8s.io/defaultbackend-amd64:1.5
+jupyter/tensorflow-notebook
