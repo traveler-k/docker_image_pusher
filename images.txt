@@ -18,4 +18,4 @@
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.8
 #registry.k8s.io/ingress-nginx/controller:v1.15.0
 #registry.k8s.io/defaultbackend-amd64:1.5
-jupyter/tensorflow-notebook
+jupyter/tensorflow-notebook:x86_64-ubuntu-22.04
