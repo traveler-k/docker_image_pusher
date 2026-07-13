@@ -19,4 +19,5 @@
 #registry.k8s.io/ingress-nginx/controller:v1.15.0
 #registry.k8s.io/defaultbackend-amd64:1.5
 #jupyter/tensorflow-notebook:x86_64-ubuntu-22.04
-vllm/vllm-openai:v0.25.0
+#vllm/vllm-openai:v0.25.0
+vllm/vllm-openai:v0.25.0-cu129
